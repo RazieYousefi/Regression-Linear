@@ -1,4 +1,4 @@
-iLinear Regression Analysis
+Linear Regression Analysis
 
 This repository provides tools and examples for linear regression analysis. It includes:
 
